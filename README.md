@@ -2,7 +2,8 @@
 
 Hashtag semantic mapping via dimensionality reduction.
 
-[](images/profile_tags_50_umap_2_dimensions.png)
+![](/images/profile_tags_50_umap_2_dimensions.png)
+
 
 ## Background
 
