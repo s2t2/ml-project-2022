@@ -28,10 +28,7 @@ Attempted dimensionality reduction techniques include PCA, T-SNE, and UMAP, but 
 
 
 
-## Slides
+## [Slides](https://docs.google.com/presentation/d/1CKQa2M5_ZhMGgyUZq_UObbVF2bPMgYnefdbVLxv-6_o/edit?usp=sharing)
 
-Link TBA
 
-## Website
-
-https://s2t2.github.io/ml-project-2022/
+## [Website](https://s2t2.github.io/ml-project-2022/)
